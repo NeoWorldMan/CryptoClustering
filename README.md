@@ -13,7 +13,7 @@ The following libraries are required to run this notebook:
 
 ## Data
 
-The dataset used includes various price change percentages for different cryptocurrencies across specific periods (e.g., 24 hours, 7 days, 14 days, etc.). The data is loaded from a CSV file, crypto_market_data.csv, located in the Resources folder.
+The dataset used includes various price change percentages for different cryptocurrencies across specific periods (e.g., 24 hours, 7 days, 14 days, etc.). The data is loaded from a CSV file, crypto_market_data.csv, located in the Resources directory.
 
 ## Data Preprocessing
 
